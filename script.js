@@ -8,7 +8,8 @@ const answers = {
 	7:'flag{c2f3e72ec771f20d84118daa6b1c4aff}',
 	8:'flag{72fa3460181c59be5ae5a13d4ef85cc1}',
 	9:'flag{18758c54e740081f5d24ea908e1bd7d8}',
-	10:'flag{043c25667d01ed88bad1cecba636d66b}'
+	10:'flag{043c25667d01ed88bad1cecba636d66b}',
+	11:'flag{04k0ecaedf01ed88bad1cecba636d66b}'
 };
 
 function checkAnswer(level) {
