@@ -8,17 +8,7 @@ const answers = {
 	7:'flag{c2f3e72ec771f20d84118daa6b1c4aff}',
 	8:'flag{72fa3460181c59be5ae5a13d4ef85cc1}',
 	9:'flag{18758c54e740081f5d24ea908e1bd7d8}',
-	10:'flag{043c25667d01ed88bad1cecba636d66b}',
-	11:'flag{a5a0a86df237a37d681ae6b2f47553fc}',
-	12:'flag{953cd532385ae83332fab713981847eb}',
-	13:'flag{e9c857ce79eed414f021b598b3b01505}',
-	14:'flag{81c46c7f5972e69254e6fa2f0ef9bdb6}',
-	15:'flag{6bac30439b1e3b9db7061515097c2fdc}',
-	16:'flag{d87f88119309abc5f5b61bed1470f555}',
-	17:'flag{fb8ff038dcd6e42e14222a568a4dcad4}',
-	18:'flag{50827598dda12181323ada9a755652e6}',
-	19:'flag{2ec663afc8dbf334546f3e758a069cd4}',
-	20:'flag{8f3be022ec0582c60d56a8bd2907f06c}'	
+	10:'flag{043c25667d01ed88bad1cecba636d66b}'
 };
 
 function checkAnswer(level) {
