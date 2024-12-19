@@ -19,8 +19,6 @@ function checkAnswer(level) {
     if (input === answers[level]) {
         feedback.textContent = "Correct! Moving to the next level...";
         feedback.style.color = "lime";
-
-        // Move to the next level after a brief delay
         setTimeout(() => {
             document.getElementById(`level${level-1}`).style.display = "none";
             document.getElementById(`level${level }`).style.display = "block";
